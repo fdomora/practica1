@@ -1,1 +1,1 @@
-Este es el primer archivo del ejercicio de git
+Este es el primer archivo del ejercicio de git, se realizo una modificacion al documento1
